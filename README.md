@@ -1,4 +1,11 @@
-# How to
+You can find the translation files in the `ui` directory. If you add a new language, please start from the `en.json` file.
+
+Currently complete translations:
+
+* English
+* Romanian
+
+# Tips
 
 ## 1. Variables
 Do not translate words between curly braces (eg. `{{count}}`).
