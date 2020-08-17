@@ -21,3 +21,4 @@ But if the language has multiple plurals (such as Romanian) plurals must be adde
 
 ## Publishing changes
 Ater you edit a translation file you can submit a pull request or, if you create a new file, send it to support [at] usertrack.net and it will be added in the next version.
+You can also add a comment or create an issue on Github if you find mistakes in existing translation files.
