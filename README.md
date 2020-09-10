@@ -4,6 +4,8 @@ Currently complete translations:
 
 * English
 * Romanian
+* Dutch
+* German
 
 # Tips
 
