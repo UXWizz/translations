@@ -31,6 +31,11 @@
     "current_locale": "de",
     "database_usage": "Speicherplatz Datenbank belegt",
     "date": "Datum",
+    "date.hour": "Stunde",
+    "date.day": "Tag",
+    "date.week": "Woche",
+    "date.month": "Monat",
+    "date.year": "Jahr",
     "default": "Default",
     "delete": "Löschen",
     "disable": "Deaktivieren",
@@ -97,6 +102,7 @@
     "segment": "Segment",
     "select_date_range": "Wähle einen Datums-Bereich",
     "selected_page": "Seite wählen",
+    "session_length": "Dauer der Sitzung",
     "session.playback_finished": "Sitzungswiedergabe beendet",
     "settings.privacy": "Datenschutz-Einstellungen",
     "settings.tracking": "Tracking-Einstellungen",
@@ -142,7 +148,7 @@
     "visitors.delete_all_selected": "Lösche ausgewählte Benutzer und alle ihre Daten.",
     "visitors.no_search_match": "Kein Besucher erfüllt die Suchkriterien.",
     "visitors": "Besucher",
-    "visits": "Besucher",
+    "visits": "Besuche",
     "watch": "Ansehen",
     "welcome": "Willkommen {{username}}!"
 }
