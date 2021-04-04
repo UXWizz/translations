@@ -6,6 +6,9 @@ Currently complete translations:
 * Romanian
 * Dutch
 * German
+* French (BETA, please submit issues or PRs)
+* Spanish (BETA, please submit issues or PRs)
+* Portuguese (BETA, please submit issues or PRs)
 
 # Tips
 
