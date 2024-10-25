@@ -9,6 +9,7 @@ Currently complete translations:
 * French (BETA, please submit issues or PRs)
 * Spanish (BETA, please submit issues or PRs)
 * Portuguese (BETA, please submit issues or PRs)
+* Japanese (BETA, please submit issues or PRs)
 
 # Tips
 
