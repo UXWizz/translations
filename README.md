@@ -10,7 +10,9 @@ Currently complete translations:
 * Spanish (BETA, please submit issues or PRs)
 * Portuguese (BETA, please submit issues or PRs)
 * Brazilian Portuguese (BETA, please submit issues or PRs)
+* Russian (BETA, please submit issues or PRs)
 * Japanese (BETA, please submit issues or PRs)
+
 
 # Tips
 
